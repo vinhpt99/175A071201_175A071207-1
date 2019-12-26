@@ -1,0 +1,70 @@
+.logo {
+    padding: 10px;
+}
+.form-inline {
+    float:right;
+    padding-top: 20px;
+}
+.carousel-caption {
+    color: #007bff; 
+}
+.breadcrumb {
+    padding: 5px 5px;
+}
+.collapse  {
+    padding-left: 200px;
+
+}
+.col-md-12 {
+    padding: 3px 5px;
+    
+}
+.form {
+    padding: 20px 8px;
+    background-color: black;
+}
+#vinh {
+    background: white;
+}
+
+.login_logout {
+    padding-left: 320px;
+    padding-top: 10px;
+}
+    
+.fa-sign-out {
+    margin-left: 20px;
+}
+.address {
+    font-size: 13px;
+}
+.sign {
+    margin-left: 10px;
+    font-size: 17px;}
+.footer_top {
+    margin-top: 0px;
+    background-color: #004EAF;
+    height: 40px;
+    color: white;          }
+
+.footer_bootom {
+    color:white;
+    padding:0.6em;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #001373;}
+.section_row {
+    padding-left: 20px;
+}
+.Admissions {
+    width: 100%;
+    height: auto;
+}
+h4 {
+    padding-left: 200px;
+}
+hr {
+    background: white;
+}
+
